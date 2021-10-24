@@ -10,17 +10,20 @@
     "amazon_link": "https://www.amazon.com/Game-Thrones-Song-Fire-Book/dp/0553381687/ref=sr_1_2?crid=1DLL4WOJ7AWE5&dchild=1&keywords=a+game+of+thrones&qid=1635113891&qsid=141-3548973-9781960&sprefix=a+game+of+throne%2Caps%2C109&sr=8-2&sres=0345535529%2C0553381687%2C0553808044%2CB01KKGFMU6%2CB01IVVF1X0%2C000744804X%2C0008209103%2C1452147329%2C044042321X%2CB007HJ84ZK%2CB00CWEQ62S%2CB00I7VWXG8%2CB07R5H1YFD%2CB0001MC01Y%2CB07CLNJBLD%2CB00026WUZU&srpt=ABIS_BOOK",
     "pages": 704,
     "year": 2002,
-    "isbn": 0553381687
+    "isbn": "0553381687"
   },
   {
-    "author": "Hans Christian Andersen",
-    "country": "Denmark",
-    "imageLink": "images/fairy-tales.jpg",
-    "language": "Danish",
-    "link": "https://en.wikipedia.org/wiki/Fairy_Tales_Told_for_Children._First_Collection.\n",
-    "pages": 784,
-    "title": "Fairy tales",
-    "year": 1836
+    "title": "",
+    "author": "",
+    "genre": ["Fantasy", "Drama", "Action"],
+    "fiction": true,
+    "imageLink": "",
+    "language": "",
+    "link": "",
+    "amazon_link": ""
+    "pages": ,
+    "year": ,
+    "isbn": 
   },
   {
     "author": "Dante Alighieri",

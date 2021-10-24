@@ -3,10 +3,12 @@
     "title": "A Game of Thrones",
     "author": "George R. R. Martin",
     "genre": ["Fantasy", "Drama", "Action"],
+    "fiction": true,
     "imageLink": "https://images-na.ssl-images-amazon.com/images/I/5163N91r6lL._SX302_BO1,204,203,200_.jpg",
     "language": "English",
     "goodreads_link": "https://www.goodreads.com/book/show/13496.A_Game_of_Thrones?from_search=true&from_srp=true&qid=M2ujfmliba&rank=1",
     "amazon_link": "https://www.amazon.com/Game-Thrones-Song-Fire-Book/dp/0553381687/ref=sr_1_2?crid=1DLL4WOJ7AWE5&dchild=1&keywords=a+game+of+thrones&qid=1635113891&qsid=141-3548973-9781960&sprefix=a+game+of+throne%2Caps%2C109&sr=8-2&sres=0345535529%2C0553381687%2C0553808044%2CB01KKGFMU6%2CB01IVVF1X0%2C000744804X%2C0008209103%2C1452147329%2C044042321X%2CB007HJ84ZK%2CB00CWEQ62S%2CB00I7VWXG8%2CB07R5H1YFD%2CB0001MC01Y%2CB07CLNJBLD%2CB00026WUZU&srpt=ABIS_BOOK",
+    "summary": "Winter is coming.",
     "pages": 704,
     "year": 1996,
     "isbn": "0553381687"

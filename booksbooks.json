@@ -348,5 +348,19 @@
     "pages": 409,
     "year": 2018,
     "isbn": "0141988517"
+  },
+  {
+    "title": "The Book Thief",
+    "author": "Markus Zusak",
+    "genre": ["Historical", "Young Adult", "Classics"],
+    "fiction": true,
+    "language": "English",
+    "imageLink": "https://images-na.ssl-images-amazon.com/images/I/51C8Tg0TCaL._SX322_BO1,204,203,200_.jpg",
+    "goodreads_link": "https://www.goodreads.com/book/show/19063.The_Book_Thief",
+    "amazon_link": "https://www.amazon.com/Book-Thief-Markus-Zusak/dp/0375842209",
+    "summary": "The extraordinary, beloved novel about the ability of books to feed the soul even in the darkest of times.\n\nWhen Death has a story to tell, you listen.\n\nIt is 1939. Nazi Germany. The country is holding its breath. Death has never been busier, and will become busier still.",
+    "pages": 608,
+    "year": 2005,
+    "isbn": "0375842209"
   }
 ]

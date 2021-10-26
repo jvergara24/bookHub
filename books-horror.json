@@ -1,0 +1,53 @@
+[
+  {
+    "title": "It",
+    "author": "Stephen King",
+    "genre": ["Horror", "Classics", "Thriller"],
+    "fiction": true,
+    "language": "English",
+    "imageLink": "https://images-na.ssl-images-amazon.com/images/I/41h8tLeMLcL._SX322_BO1,204,203,200_.jpg",
+    "goodreads_link": "https://www.goodreads.com/book/show/830502.It",
+    "amazon_link": "https://www.amazon.com/Novel-Stephen-King/dp/1982127791/ref=sr_1_1?crid=32JFJQ2ZEXIKS&dchild=1&keywords=It+book&qid=1635133438&qsid=141-3548973-9781960&sprefix=it+book%2Caps%2C104&sr=8-1&sres=1982127791%2C1419740474%2C0593298942%2C1631498231%2C0578827980%2C1637839715%2CB09K47JGTV%2C0935112960%2C078524266X%2C1982157801%2C0593192842%2C1622039076%2C162933779X%2CB09K2XB5LV%2C1737408309%2C0062135139&srpt=ABIS_BOOK",
+    "ebay_link": "https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l2632&_nkw=it+book+stephen+king&_sacat=261186&LH_TitleDesc=0&_odkw=the+shining&_osacat=261186",
+    "ebooks_link": "https://www.ebooks.com/en-us/book/2417314/it/stephen-king/",
+    "summary": "It’s a small city, a place as hauntingly familiar as your own hometown. Only in Derry the haunting is real ...\n\nThey were seven teenagers when they first stumbled upon the horror. Now they are grown-up men and women who have gone out into the big world to gain success and happiness. But none of them can withstand the force that has drawn them back to Derry to face the nightmare without an end, and the evil without a name.",
+    "pages": 1116,
+    "year": 1986,
+    "isbn": "1982127791",
+    "rating": 4.24
+  },
+  {
+    "title": "Pet Sematary",
+    "author": "Stephen King",
+    "genre": ["Horror", "Supernatural", "Thriller"],
+    "fiction": true,
+    "language": "English",
+    "imageLink": "https://images-na.ssl-images-amazon.com/images/I/51UPISMopXL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg",
+    "goodreads_link": "https://www.goodreads.com/book/show/33124137-pet-sematary",
+    "amazon_link": "https://www.amazon.com/Pet-Sematary-Stephen-King/dp/0743412281/ref=sr_1_1?dchild=1&keywords=pet+sematary+book&qid=1635133565&qsid=141-3548973-9781960&s=books&sprefix=pet+sem%2Cstripbooks%2C101&sr=1-1&sres=0743412281%2CB015QKBUKM%2C1982127791%2C0307743667%2C0345806786%2C1501143107%2CB0013ZS2UQ%2C1501144189%2C1501192035%2C1982136073%2C0345806794%2C1984898760%2CB001RVARX6%2C1451627289%2C1501192248%2C1501163221&srpt=ABIS_BOOK",
+    "ebay_link": "https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l2632&_nkw=pet+sematary&_sacat=261186&LH_TitleDesc=0&_odkw=it+book+stephen+king&_osacat=261186",
+    "ebooks_link": "https://www.ebooks.com/en-us/book/1684557/pet-sematary/stephen-king/",
+    "summary": "When the Creeds move into a beautiful old house in rural Maine, it all seems too good to be true: physician father, beautiful wife, charming little daughter, adorable infant son-and now an idyllic home. As a family, they've got it all...right down to the friendly car. But the nearby woods hide a blood-chilling truth-more terrifying than death itself-and hideously more powerful. The Creeds are going to learn that sometimes dead is better.",
+    "pages": 416,
+    "year": 1983,
+    "isbn": "0743412281",
+    "rating": 4.02
+  },
+  {
+    "title": "The Exorcist",
+    "author": "William Peter Blatty",
+    "genre": ["Horror", "Paranormal", "Thriller"],
+    "fiction": true,
+    "language": "English",
+    "imageLink": "https://images-na.ssl-images-amazon.com/images/I/3112OQ+H2cL._SY344_BO1,204,203,200_.jpg",
+    "goodreads_link": "https://www.goodreads.com/book/show/179780.The_Exorcist",
+    "amazon_link": "https://www.amazon.com/Exorcist-Anniversary-William-Peter-Blatty/dp/006209436X/ref=sr_1_1?dchild=1&keywords=the+exorcist+book&qid=1635133663&qsid=141-3548973-9781960&s=books&sprefix=the+exor%2Cstripbooks%2C97&sr=1-1&sres=006209436X%2CB01N40JAAZ%2CB0146USS2G%2C193399391X%2C0692536698%2C1448663903%2C1644134675%2C0765327139%2C1681774666%2C0143122355%2C1622823451%2C1537712187%2C1465492380%2C1692862138%2CB09JDT17Y9%2C1622826248",
+    "ebay_link": "https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l2632&_nkw=the+exorcist+book&_sacat=261186&LH_TitleDesc=0&_odkw=pet+sematary&_osacat=261186",
+    "ebooks_link": "https://www.ebooks.com/en-us/book/679143/the-exorcist/william-peter-blatty/",
+    "summary": "Four decades after it first terrified the world, William Peter Blatty’s The Exorcist is back! An extraordinary classic work of horror and dark paranormal suspense. In this stunning 40th Anniversary Edition, a desperate mother and two priests fight to free the soul of a little girl from a supernatural entity of pure malevolence.",
+    "pages": 385,
+    "year": 1971,
+    "isbn": "006209436X",
+    "rating": 4.19
+  }
+]

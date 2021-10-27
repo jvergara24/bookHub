@@ -934,5 +934,22 @@
     "year": 2000,
     "isbn": "074349346X",
     "rating": 3.92
+  },
+  {
+    "title": "Les Misérables",
+    "author": "Victor Hugo",
+    "genre": ["Classics", "Culture", "History/Politics"],
+    "fiction": true,
+    "language": "French",
+    "imageLink": "https://images-na.ssl-images-amazon.com/images/I/51gFfl+xHxL._SX299_BO1,204,203,200_.jpg",
+    "goodreads_link": "https://www.goodreads.com/book/show/24280.Les_Mis_rables",
+    "amazon_link": "https://www.amazon.com/Miserables-Signet-Classics-Victor-Hugo/dp/045141943X/ref=sr_1_2?crid=I2WH61A8K4AE&dchild=1&keywords=Les+Misérables&qid=1635202847&qsid=141-3548973-9781960&s=books&sprefix=les+misérables%2Cstripbooks%2C156&sr=1-2&sres=0143107569%2C045141943X%2C1977076602%2C1626864640%2CB0055T18DY%2C1774760967%2C0375403175%2C141650026X%2C0881885770%2C0793529182%2C1496442962%2CB071F5CVS7%2C1501887106%2C8491051120%2C1927925150%2C0449300021",
+    "ebay_link": "https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l2632&_nkw=les+misérables&_sacat=261186&LH_TitleDesc=0&_odkw=Les+Misérables&_osacat=261186",
+    "ebooks_link": "https://www.ebooks.com/en-us/book/543265/les-mis-rables/victor-hugo/",
+    "summary": "Victor Hugo's tale of injustice, heroism and love follows the fortunes of Jean Valjean, an escaped convict determined to put his criminal past behind him. But his attempts to become a respected member of the community are constantly put under threat: by his own conscience, when, owing to a case of mistaken identity, another man is arrested in his place; and by the relentless investigations of the dogged Inspector Javert. It is not simply for himself that Valjean must stay free, however, for he has sworn to protect the baby daughter of Fantine, driven to prostitution by poverty.",
+    "pages": 1488,
+    "year": 1862,
+    "isbn": "045141943X",
+    "rating": 4.18
   }
 ]

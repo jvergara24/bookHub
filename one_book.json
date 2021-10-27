@@ -1,6 +1,23 @@
 [
   {
-    "title": "The Da Vinci Code123",
+    "title": "The Da Vinci Code1",
+    "author": "Dan Brown",
+    "genre": ["Mystery", "Suspense", "Thriller"],
+    "fiction": true,
+    "language": "English",
+    "imageLink": "https://images-na.ssl-images-amazon.com/images/I/41KuPr7kpZL._SX277_BO1,204,203,200_.jpg",
+    "goodreads_link": "https://www.goodreads.com/book/show/968.The_Da_Vinci_Code",
+    "amazon_link": "https://www.amazon.com/Vinci-Code-Robert-Langdon/dp/0307474275/ref=sr_1_1?crid=WPFUJDCZQ1AJ&dchild=1&keywords=The+Da+Vinci+Code&qid=1635201815&qsid=141-3548973-9781960&s=books&sprefix=the+da+vinci+code%2Cstripbooks%2C105&sr=1-1&sres=0307474275%2C0385504209%2CB008RQME76%2CB088K168RD%2CB00TCS3MOC%2CB0007OB5HG%2C3791333224%2C1375390511%2C9953297878%2CB001RARMMQ%2C0923550666%2C0972952977%2C7208050031%2CB00DWWGAFC%2CB0029PTO74%2C9123651253&srpt=DOWNLOADABLE_MOVIE",
+    "ebay_link": "https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l2632&_nkw=the+da+vinci+code+book&_sacat=261186&LH_TitleDesc=0&_odkw=angels+demons&_osacat=261186",
+    "ebooks_link": "https://www.ebooks.com/en-us/searchapp/searchresults.net?term=The+Da+Vinci+Code",
+    "summary": "While in Paris, Harvard symbologist Robert Langdon is awakened by a phone call in the dead of the night. The elderly curator of the Louvre has been murdered inside the museum, his body covered in baffling symbols. As Langdon and gifted French cryptologist Sophie Neveu sort through the bizarre riddles, they are stunned to discover a trail of clues hidden in the works of Leonardo da Vinci—clues visible for all to see and yet ingeniously disguised by the painter.",
+    "pages": 597,
+    "year": 2003,
+    "isbn": "0307474275",
+    "rating": 3.88
+  },
+  {
+    "title": "The Da Vinci Code2",
     "author": "Dan Brown",
     "genre": ["Mystery", "Suspense", "Thriller"],
     "fiction": true,

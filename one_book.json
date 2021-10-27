@@ -32,5 +32,22 @@
     "year": 2003,
     "isbn": "0307474275",
     "rating": 3.88
+  },
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "genre": ["Classics", "Romance", "Young Adult"],
+    "fiction": true,
+    "language": "English",
+    "imageLink": "https://images-na.ssl-images-amazon.com/images/I/41NssxNlPlS._SX331_BO1,204,203,200_.jpg",
+    "goodreads_link": "https://www.goodreads.com/book/show/4671.The_Great_Gatsby",
+    "amazon_link": "https://www.amazon.com/Great-Gatsby-Original-Fitzgerald-Classic/dp/B093MYWTT5/ref=sr_1_1?crid=38I3J02OSW9HM&dchild=1&keywords=The+Great+Gatsby&qid=1635204925&qsid=141-3548973-9781960&s=books&sprefix=the+great+gatsby%2Cstripbooks%2C221&sr=1-1&sres=B093MYWTT5%2CB08RYK64GM%2C1840227958%2C0762498137%2C1936767694%2C1982149485%2CB09GJQ5RQN%2C1982144548%2C0593133552%2CB08RX65KXG%2CB08TTGWV9L%2C1954432399%2CB099NRJWFP%2C1953649831%2C1536216763%2CB08VZK23BP",
+    "ebay_link": "https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l2632&_nkw=the+great+gatsby&_sacat=261186&LH_TitleDesc=0&_odkw=fahrenheit+451&_osacat=261186",
+    "ebooks_link": "https://www.ebooks.com/en-us/book/158825/the-great-gatsby/f-scott-fitzgerald/",
+    "summary": "This exemplary novel of the Jazz Age has been acclaimed by generations of readers. The story is of the fabulously wealthy Jay Gatsby and his new love for the beautiful Daisy Buchanan, of lavish parties on Long Island at a time when The New York Times noted \"gin was the national drink and sex the national obsession,\" it is an exquisitely crafted tale of America in the 1920s.",
+    "pages": 110,
+    "year": 1925,
+    "isbn": "1640322795",
+    "rating": 3.93
   }
 ]

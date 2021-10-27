@@ -953,20 +953,20 @@
     "rating": 3.88
   },
   {
-    "title": "Les Misérables",
-    "author": "Victor Hugo",
-    "genre": ["Classics", "Culture", "History/Politics"],
+    "title": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "genre": ["Science Fiction", "Adult", "Classics"],
     "fiction": true,
-    "language": "French",
-    "imageLink": "https://images-na.ssl-images-amazon.com/images/I/51gFfl+xHxL._SX299_BO1,204,203,200_.jpg",
-    "goodreads_link": "https://www.goodreads.com/book/show/24280.Les_Mis_rables",
-    "amazon_link": "https://www.amazon.com/Miserables-Signet-Classics-Victor-Hugo/dp/045141943X/ref=sr_1_2?crid=I2WH61A8K4AE&dchild=1&keywords=Les+Misérables&qid=1635202847&qsid=141-3548973-9781960&s=books&sprefix=les+misérables%2Cstripbooks%2C156&sr=1-2&sres=0143107569%2C045141943X%2C1977076602%2C1626864640%2CB0055T18DY%2C1774760967%2C0375403175%2C141650026X%2C0881885770%2C0793529182%2C1496442962%2CB071F5CVS7%2C1501887106%2C8491051120%2C1927925150%2C0449300021",
-    "ebay_link": "https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l2632&_nkw=les+misérables&_sacat=261186&LH_TitleDesc=0&_odkw=Les+Misérables&_osacat=261186",
-    "ebooks_link": "https://www.ebooks.com/en-us/book/543265/les-mis-rables/victor-hugo",
-    "summary": "Victor Hugo's tale of injustice, heroism and love follows the fortunes of Jean Valjean, an escaped convict determined to put his criminal past behind him. But his attempts to become a respected member of the community are constantly put under threat: by his own conscience, when, owing to a case of mistaken identity, another man is arrested in his place; and by the relentless investigations of the dogged Inspector Javert. It is not simply for himself that Valjean must stay free, however, for he has sworn to protect the baby daughter of Fantine, driven to prostitution by poverty.",
-    "pages": 1488,
-    "year": 1862,
-    "isbn": "045141943X",
-    "rating": 4.18
+    "language": "English",
+    "imageLink": "https://images-na.ssl-images-amazon.com/images/I/41qI9quGIdL._SX324_BO1,204,203,200_.jpg",
+    "goodreads_link": "https://www.goodreads.com/book/show/13079982-fahrenheit-451",
+    "amazon_link": "https://www.amazon.com/Fahrenheit-451-Ray-Bradbury/dp/1451673310/ref=sr_1_1?crid=3CX9CHNV90CQ1&dchild=1&keywords=Fahrenheit+451&qid=1635204235&qsid=141-3548973-9781960&s=books&sprefix=fahrenheit+451%2Cstripbooks%2C150&sr=1-1&sres=1451673310%2C0006546064%2CB015X4D5GI%2C080905101X%2CB00D5Q1SV6%2CB085KR65M8%2C1852560231%2C1425889921%2C1644730537%2C0822004585%2C067187036X%2C1250106494%2C156137301X%2CB07M6ZSPXT%2C655830015X%2C0764586505&srpt=ABIS_BOOK",
+    "ebay_link": "https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l2632&_nkw=fahrenheit+451&_sacat=261186&LH_TitleDesc=0&_odkw=les+misérables&_osacat=261186",
+    "ebooks_link": "https://www.ebooks.com/en-us/book/765527/fahrenheit-451/ray-bradbury/",
+    "summary": "Guy Montag is a fireman. His job is to destroy the most illegal of commodities, the printed book, along with the houses in which they are hidden. Montag never questions the destruction and ruin his actions produce, returning each day to his bland life and wife, Mildred, who spends all day with her television \"family.\" But when he meets an eccentric young neighbor, Clarisse, who introduces him to a past where people didn’t live in fear and to a present where one sees the world through the ideas in books instead of the mindless chatter of television, Montag begins to question everything he has ever known.",
+    "pages": 249,
+    "year": 1953,
+    "isbn": "9781451673319",
+    "rating": 3.98
   }
 ]

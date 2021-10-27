@@ -10,11 +10,11 @@
     "ebay_link": "",
     "ebooks_link": "",
     "summary": "",
-    "pages": ,
-    "year": ,
-    "rating": ,
-    "isbn": ""
-  },
+    "pages": 1,
+    "year": 1,
+    "isbn": "",
+    "rating": 1
+    }
 
   hardcopy - google map click
   filter using search in table view

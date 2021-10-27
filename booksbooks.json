@@ -968,5 +968,39 @@
     "year": 1862,
     "isbn": "045141943X",
     "rating": 4.18
+  },
+  {
+    "title": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "genre": ["Science Fiction", "Adult", "Classics"],
+    "fiction": true,
+    "language": "English",
+    "imageLink": "https://images-na.ssl-images-amazon.com/images/I/41qI9quGIdL._SX324_BO1,204,203,200_.jpg",
+    "goodreads_link": "https://www.goodreads.com/book/show/13079982-fahrenheit-451",
+    "amazon_link": "https://www.amazon.com/Fahrenheit-451-Ray-Bradbury/dp/1451673310/ref=sr_1_1?crid=3CX9CHNV90CQ1&dchild=1&keywords=Fahrenheit+451&qid=1635204235&qsid=141-3548973-9781960&s=books&sprefix=fahrenheit+451%2Cstripbooks%2C150&sr=1-1&sres=1451673310%2C0006546064%2CB015X4D5GI%2C080905101X%2CB00D5Q1SV6%2CB085KR65M8%2C1852560231%2C1425889921%2C1644730537%2C0822004585%2C067187036X%2C1250106494%2C156137301X%2CB07M6ZSPXT%2C655830015X%2C0764586505&srpt=ABIS_BOOK",
+    "ebay_link": "https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l2632&_nkw=fahrenheit+451&_sacat=261186&LH_TitleDesc=0&_odkw=les+misérables&_osacat=261186",
+    "ebooks_link": "https://www.ebooks.com/en-us/book/765527/fahrenheit-451/ray-bradbury/",
+    "summary": "Guy Montag is a fireman. His job is to destroy the most illegal of commodities, the printed book, along with the houses in which they are hidden. Montag never questions the destruction and ruin his actions produce, returning each day to his bland life and wife, Mildred, who spends all day with her television “family.” But when he meets an eccentric young neighbor, Clarisse, who introduces him to a past where people didn’t live in fear and to a present where one sees the world through the ideas in books instead of the mindless chatter of television, Montag begins to question everything he has ever known.",
+    "pages": 249,
+    "year": 1953,
+    "isbn": "9781451673319",
+    "rating": 3.98
+  },
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "genre": ["Classics", "Romance", "Young Adult"],
+    "fiction": true,
+    "language": "English",
+    "imageLink": "https://images-na.ssl-images-amazon.com/images/I/41NssxNlPlS._SX331_BO1,204,203,200_.jpg",
+    "goodreads_link": "https://www.goodreads.com/book/show/4671.The_Great_Gatsby",
+    "amazon_link": "https://www.amazon.com/Great-Gatsby-Original-Fitzgerald-Classic/dp/B093MYWTT5/ref=sr_1_1?crid=38I3J02OSW9HM&dchild=1&keywords=The+Great+Gatsby&qid=1635204925&qsid=141-3548973-9781960&s=books&sprefix=the+great+gatsby%2Cstripbooks%2C221&sr=1-1&sres=B093MYWTT5%2CB08RYK64GM%2C1840227958%2C0762498137%2C1936767694%2C1982149485%2CB09GJQ5RQN%2C1982144548%2C0593133552%2CB08RX65KXG%2CB08TTGWV9L%2C1954432399%2CB099NRJWFP%2C1953649831%2C1536216763%2CB08VZK23BP",
+    "ebay_link": "https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l2632&_nkw=the+great+gatsby&_sacat=261186&LH_TitleDesc=0&_odkw=fahrenheit+451&_osacat=261186",
+    "ebooks_link": "https://www.ebooks.com/en-us/book/158825/the-great-gatsby/f-scott-fitzgerald/",
+    "summary": "This exemplary novel of the Jazz Age has been acclaimed by generations of readers. The story is of the fabulously wealthy Jay Gatsby and his new love for the beautiful Daisy Buchanan, of lavish parties on Long Island at a time when The New York Times noted \"gin was the national drink and sex the national obsession,\" it is an exquisitely crafted tale of America in the 1920s.",
+    "pages": 110,
+    "year": 1925,
+    "isbn": "1640322795",
+    "rating": 3.93
   }
 ]

@@ -87,7 +87,7 @@
   {
     "title": "A Day Like This",
     "author": "Kelley McNeil",
-    "genre": ["Mystery", "Romance", "Thriller"],
+    "genre": ["Romance", "Mystery", "Thriller"],
     "fiction": true,
     "language": "English",
     "imageLink": "https://m.media-amazon.com/images/I/51uYWhRO1KL.jpg",
@@ -104,7 +104,7 @@
   {
     "title": "Jane Eyre",
     "author": "Charlotte Bronte",
-    "genre": ["Classics", "Romance", "History/Politics"],
+    "genre": ["Romance", "Classics", "History/Politics"],
     "fiction": true,
     "language": "English",
     "imageLink": "https://images-na.ssl-images-amazon.com/images/I/51i+b3qzyzL._SX338_BO1,204,203,200_.jpg",
@@ -122,7 +122,7 @@
   {
     "title": "Anna Karenina",
     "author": "Leo Tolstoy",
-    "genre": ["Classics", "Romance", "History/Politics"],
+    "genre": ["Romance", "Classics", "History/Politics"],
     "fiction": true,
     "language": "English",
     "imageLink": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1601352433l/15823480._SY475_.jpg",
@@ -309,7 +309,7 @@
   {
     "title": "To Kill a Mockingbird",
     "author": "Harper Lee",
-    "genre": ["Classics", "Young Adult", "History/Politics"],
+    "genre": ["History/Politics", "Young Adult", "Classics"],
     "fiction": true,
     "language": "English",
     "imageLink": "https://images-na.ssl-images-amazon.com/images/I/51IXWZzlgSL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg",
@@ -326,7 +326,7 @@
   {
     "title": "Dreams from My Father: A Story of Race and Inheritance",
     "author": "Barack Obama",
-    "genre": ["Biography", "Race", "History/Politics"],
+    "genre": ["History/Politics", "Race", "Biography"],
     "fiction": false,
     "language": "English",
     "imageLink": "https://images-na.ssl-images-amazon.com/images/I/51P+tCXehkL._SX316_BO1,204,203,200_.jpg",
@@ -394,7 +394,7 @@
   {
     "title": "1984",
     "author": "George Orwell",
-    "genre": ["Classics", "Science Fiction", "History/Politics"],
+    "genre": ["Science Fiction", "Classics", "History/Politics"],
     "fiction": true,
     "language": "English",
     "imageLink": "https://images-na.ssl-images-amazon.com/images/I/511UmuIHccS._SX330_BO1,204,203,200_.jpg",
@@ -411,7 +411,7 @@
   {
     "title": "12 Rules for Life: An Antidote to Chaos",
     "author": "Jordan B. Peterson",
-    "genre": ["Psychology", "Philosophy", "History/Politics"],
+    "genre": ["History/Politics", "Philosophy", "Psychology"],
     "fiction": false,
     "language": "English",
     "imageLink": "https://images-na.ssl-images-amazon.com/images/I/41EATHVLJRL._SX324_BO1,204,203,200_.jpg",
@@ -445,7 +445,7 @@
   {
     "title": "The Shining",
     "author": "Stephen King",
-    "genre": ["Classics", "Suspense", "Thriller"],
+    "genre": ["Horror", "Suspense", "Classics"],
     "fiction": true,
     "language": "English",
     "imageLink": "https://images-na.ssl-images-amazon.com/images/I/41ksNxnzTIL._SX322_BO1,204,203,200_.jpg",
@@ -530,7 +530,7 @@
   {
     "title": "The Princess Bride",
     "author": "William Goldman",
-    "genre": ["Fantasy", "Romance", "Comedy/Humor"],
+    "genre": ["Comedy/Humor", "Romance", "Fantasy"],
     "fiction": true,
     "language": "English",
     "imageLink": "https://images-na.ssl-images-amazon.com/images/I/6158nPSznqL._SX218_BO1,204,203,200_QL40_FMwebp_.jpg",
@@ -547,7 +547,7 @@
   {
     "title": "Pride and Prejudice",
     "author": "Jane Austen",
-    "genre": ["Classics", "Romance", "History/Politics"],
+    "genre": ["Romance", "Classics", "History/Politics"],
     "fiction": true,
     "language": "English",
     "imageLink": "https://m.media-amazon.com/images/I/41xS13jH89L._SY346_.jpg",
@@ -598,7 +598,7 @@
   {
     "title": "Of Mice and Men",
     "author": "John Steinbeck",
-    "genre": ["Classics", "Young Adult", "Academic"],
+    "genre": ["Young Adult", "Classics", "Academic"],
     "fiction": true,
     "language": "English",
     "imageLink": "https://images-na.ssl-images-amazon.com/images/I/41OmKxmMLIL._SX266_BO1,204,203,200_.jpg",
@@ -785,7 +785,7 @@
   {
     "title": "Animal Farm",
     "author": "George Orwell",
-    "genre": ["Science Fiction", "History/Politics", "Classics"],
+    "genre": ["History/Politics", "Science Fiction", "Classics"],
     "fiction": true,
     "language": "English",
     "imageLink": "https://images-na.ssl-images-amazon.com/images/I/41NzDuSdIfL._SX277_BO1,204,203,200_.jpg",
@@ -853,7 +853,7 @@
   {
     "title": "The Fault in Our Stars",
     "author": "John Green",
-    "genre": ["Young Adult", "Romance", "Drama"],
+    "genre": ["Romance", "Young Adult", "Drama"],
     "fiction": true,
     "language": "English",
     "imageLink": "https://images-na.ssl-images-amazon.com/images/I/51ED6WxFy8L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg",
@@ -870,7 +870,7 @@
   {
     "title": "Gone with the Wind",
     "author": "Margaret Mitchell",
-    "genre": ["History/Politics", "Romance", "Classics"],
+    "genre": ["Romance", "History/Politics", "Drama"],
     "fiction": true,
     "language": "English",
     "imageLink": "https://images-na.ssl-images-amazon.com/images/I/51CTy9BDgnL._SX327_BO1,204,203,200_.jpg",
@@ -955,7 +955,7 @@
   {
     "title": "The Great Gatsby",
     "author": "F. Scott Fitzgerald",
-    "genre": ["Classics", "Romance", "Young Adult"],
+    "genre": ["Romance", "Classics", "Young Adult"],
     "fiction": true,
     "language": "English",
     "imageLink": "https://images-na.ssl-images-amazon.com/images/I/41NssxNlPlS._SX331_BO1,204,203,200_.jpg",
@@ -989,7 +989,7 @@
   {
     "title": "Romeo and Juliet",
     "author": "William Shakespeare",
-    "genre": ["Classics", "Romance", "Young Adult"],
+    "genre": ["Romance", "Classics", "Young Adult"],
     "fiction": true,
     "language": "English",
     "imageLink": "https://images-na.ssl-images-amazon.com/images/I/41GgR8NrYgL._SX322_BO1,204,203,200_.jpg",

@@ -1308,5 +1308,39 @@
     "year": 1884,
     "isbn": "9780007351039",
     "rating": 3.82
+  },
+  {
+    "title": "Wuthering Heights",
+    "author": "Emily Brontë",
+    "genre": ["Romance", "Classics", "Gothic"],
+    "fiction": true,
+    "language": "English",
+    "imageLink": "https://images-na.ssl-images-amazon.com/images/I/410htDOCKsL._SX323_BO1,204,203,200_.jpg",
+    "goodreads_link": "https://www.goodreads.com/book/show/6185.Wuthering_Heights",
+    "amazon_link": "https://www.amazon.com/Wuthering-Heights-Penguin-Classics-Brontë/dp/0141439556/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1636931298&sr=8-2",
+    "ebay_link": "https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l2632&_nkw=wuthering+heights&_sacat=261186",
+    "ebooks_link": "https://www.ebooks.com/en-us/book/193582/wuthering-heights/emily-bronte/",
+    "summary": "Lockwood, the new tenant of Thrushcross Grange, situated on the bleak Yorkshire moors, is forced to seek shelter one night at Wuthering Heights, the home of his landlord. There he discovers the history of the tempestuous events that took place years before. What unfolds is the tale of the intense love between the gypsy foundling Heathcliff and Catherine Earnshaw. Catherine, forced to choose between passionate, tortured Heathcliff and gentle, well-bred Edgar Linton, surrendered to the expectations of her class. As Heathcliff's bitterness and vengeance at his betrayal is visited upon the next generation, their innocent heirs must struggle to escape the legacy of the past.",
+    "pages": 416,
+    "year": 1847,
+    "isbn": "0141439556",
+    "rating": 3.87
+  },
+  {
+    "title": "The Picture of Dorian Gray",
+    "author": "Oscar Wilde",
+    "genre": ["Horror", "Classics", "Gothic"],
+    "fiction": true,
+    "language": "English",
+    "imageLink": "https://images-na.ssl-images-amazon.com/images/I/51jYWibWkNL._SX331_BO1,204,203,200_.jpg",
+    "goodreads_link": "https://www.goodreads.com/book/show/5297.The_Picture_of_Dorian_Gray",
+    "amazon_link": "https://www.amazon.com/Picture-Dorian-Gray-Oscar-Wilde/dp/1548296740/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1636931464&sr=8-3",
+    "ebay_link": "https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=The+Picture+of+Dorian+Gray&_sacat=261186&LH_TitleDesc=0&_odkw=wuthering+heights&_osacat=261186",
+    "ebooks_link": "https://www.ebooks.com/en-us/searchapp/searchresults.net?term=The+Picture+of+Dorian+Gray",
+    "summary": "Written in his distinctively dazzling manner, Oscar Wilde’s story of a fashionable young man who sells his soul for eternal youth and beauty is the author’s most popular work. The tale of Dorian Gray’s moral disintegration caused a scandal when it ﬁrst appeared in 1890, but though Wilde was attacked for the novel’s corrupting inﬂuence, he responded that there is, in fact, “a terrible moral in Dorian Gray.” Just a few years later, the book and the aesthetic/moral dilemma it presented became issues in the trials occasioned by Wilde’s homosexual liaisons, which resulted in his imprisonment. Of Dorian Gray’s relationship to autobiography, Wilde noted in a letter, “Basil Hallward is what I think I am: Lord Henry what the world thinks me: Dorian what I would like to be—in other ages, perhaps.",
+    "pages": 96,
+    "year": 1890,
+    "isbn": "1548296740",
+    "rating": 4.10
   }
 ]
